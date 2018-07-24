@@ -1,5 +1,5 @@
 {
-  "name": "shawn_seodetected",
+  "name": "centaur07_seodetected",
   "version": "1.0.0",
   "description": "Detected the SEO rules",
   "main": "SeoDetected.js",
@@ -15,9 +15,9 @@
     "seo"
   ],
   "repository" : {
-  "type" : "git",
+    "type" : "git",
     "url" : "https://github.com/centaur07/NodeJS-SeoDetect.git"
-  }
-  "author": "Shawn Chang",
+  },
+  "author": "centaur07",
   "license": "ISC"
 }
