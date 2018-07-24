@@ -1,0 +1,23 @@
+{
+  "name": "shawn_seodetected",
+  "version": "1.0.0",
+  "description": "Detected the SEO rules",
+  "main": "SeoDetected.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seo"
+  ],
+  "repository" : {
+  "type" : "git",
+    "url" : "https://github.com/centaur07/NodeJS-SeoDetect.git"
+  }
+  "author": "Shawn Chang",
+  "license": "ISC"
+}
